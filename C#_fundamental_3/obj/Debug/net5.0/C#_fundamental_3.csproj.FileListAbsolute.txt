@@ -1,0 +1,16 @@
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\C#_fundamental_3.exe
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\C#_fundamental_3.deps.json
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\C#_fundamental_3.runtimeconfig.json
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\C#_fundamental_3.runtimeconfig.dev.json
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\C#_fundamental_3.dll
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\ref\C#_fundamental_3.dll
+E:\Rookie\C#_fundamental_3\bin\Debug\net5.0\C#_fundamental_3.pdb
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.csproj.AssemblyReference.cache
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.AssemblyInfoInputs.cache
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.AssemblyInfo.cs
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.csproj.CoreCompileInputs.cache
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.dll
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\ref\C#_fundamental_3.dll
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.pdb
+E:\Rookie\C#_fundamental_3\obj\Debug\net5.0\C#_fundamental_3.genruntimeconfig.cache
